@@ -45,7 +45,7 @@ news\_etl\_pipeline/
 # 1. Clone the Repository
 
 ```bash
-git clone https://github.com/armaankhan8270/news-etl-pipeline.git
+git clone https://github.com/armaankhan8270/news-etl-pipeline.git](https://github.com/armaankhan8270/Airflow_Etl
 cd news-etl-pipeline
 ````
 
